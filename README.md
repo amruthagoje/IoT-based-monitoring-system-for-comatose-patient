@@ -1,8 +1,7 @@
 # IoT-based-monitoring-system-for-comatose-patient
 IoT-based system for comatose patients using ESPwroom32 with sensors (DHT11, HW827, PIR, HC-SR04) to monitor vitals and movement. Data is displayed on an LCD and Blynk app. Aims to enable real-time, cost-effective healthcare monitoring and future smart hospital integration.
-🌟 Project Highlight: IoT Based Monitoring System for Comatose Patients 🏥💻
 
-Our project focuses on leveraging IoT technology to develop a cutting-edge monitoring system tailored for comatose patients. At its core, our system integrates an ESPwroom32 microcontroller with a suite of sensors including temperature/humidity, pulse, PIR, and ultrasonic sensors.
+My project focuses on leveraging IoT technology to develop a cutting-edge monitoring system tailored for comatose patients. At its core, our system integrates an ESPwroom32 microcontroller with a suite of sensors including temperature/humidity, pulse, PIR, and ultrasonic sensors.
 
 🔍 Sensor Insights:
 - Temperature & Humidity Sensor (DHT11): Utilizes NTC thermistor technology for accurate temperature measurement and employs a bidirectional single-wire interface for data transmission.
